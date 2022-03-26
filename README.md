@@ -2,7 +2,7 @@
 Les dejo unos Comandos-Basicos-Termux-2022 ideales para quien apenas va empezando a usarlo son de mucha utilidad al descargar Termux-Android por primera vez
 COMO YA VIERON EN LA PARTE DE ARRIBA EL TEMA A EXPLICAR...SOLO ME QUEDA DECIRLES QUE NO MODIFIQUEN NADA EN LOS COMANDOS O TENDRAN FALLOS O QUIZÁS DAÑOS EN SU DISPOSITIVO SE LOS DIGO POR EXPERIENCIA PROPIA°°°
 
-https://github.com/Comandos-Basicos-Termux-2022/The-Wich-Crack-Hack
+https://github.com/The-Wich-Crack-Hack/Comandos-Basicos-Termux-2022
 
 Link De Mi Canal De YouTube ⬇️⬇️⬇️
 https://youtube.com/channel/UCEoZvzuZmIvBwc_7wo6j8Qw
